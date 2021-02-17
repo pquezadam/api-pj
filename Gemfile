@@ -41,6 +41,7 @@ group :development, :test do
   gem 'rswag-specs'
   gem 'rubocop'
   gem 'rubocop-rspec'
+  gem 'swagger-docs'
 end
 
 group :development do
